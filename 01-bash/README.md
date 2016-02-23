@@ -3,7 +3,7 @@ bash
 
 ## Лекция
 
-Слайды: [pdf](https://github.com/xairy/mipt-ctf/raw/master/01-bash/slides.pdf), [online](https://docs.google.com/presentation/d/1mseJ-39QVw1NclNv9VUq20ZUW3XwGgNM9U2UEW8T-Js/edit#slide=id.p).
+Слайды: [pdf](https://github.com/vpavlenko/mipt-ctf/raw/master/01-bash/slides.pdf), [online](https://docs.google.com/presentation/d/1mseJ-39QVw1NclNv9VUq20ZUW3XwGgNM9U2UEW8T-Js/edit#slide=id.p).
 
 ## Задачи
 
@@ -36,11 +36,11 @@ username taskname 73c0487d1b4c9326bc4ec5ac09bf69eb
 
 ## Разбор задач
 
-[Тут](https://github.com/xairy/mipt-ctf/wiki/Writeup:-bash).
+[Тут](https://github.com/vpavlenko/mipt-ctf/wiki/Writeup:-bash).
 
 ## Материалы
 
-[Презентация на паре](https://github.com/xairy/mipt-ctf/raw/master/01-bash/01-bash-presentation.pdf)
+[Презентация на паре](https://github.com/vpavlenko/mipt-ctf/raw/master/01-bash/01-bash-presentation.pdf)
 
 [Using Grep & Regular Expressions to Search for Text Patterns in Linux](https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux)
 

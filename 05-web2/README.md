@@ -3,14 +3,14 @@ Web2
 
 ## Лекция
 
-[Часть 1](https://github.com/xairy/mipt-ctf/tree/master/04-web).
+[Часть 1](https://github.com/vpavlenko/mipt-ctf/tree/master/04-web).
 
 Часть 2:
-[pdf](https://github.com/xairy/mipt-ctf/raw/master/05-web2/slides.pdf),
+[pdf](https://github.com/vpavlenko/mipt-ctf/raw/master/05-web2/slides.pdf),
 [online](https://docs.google.com/presentation/d/1yyzmHGmIHnEbWAK33q89TD6w77rNeeXTyEczSemNuT8/edit?usp=sharing),
 [screencast](https://www.youtube.com/watch?v=BTk9w6G1KVg).
 
-[Часть 3](https://github.com/xairy/mipt-ctf/tree/master/06-web3).
+[Часть 3](https://github.com/vpavlenko/mipt-ctf/tree/master/06-web3).
 
 
 ## Задачи

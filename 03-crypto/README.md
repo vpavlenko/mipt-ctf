@@ -3,7 +3,7 @@ Crypto
 
 ## Лекция
 
-Часть 1: слайды: [pdf](https://github.com/xairy/mipt-ctf/raw/master/03-crypto/slides.pdf), [online](https://docs.google.com/presentation/d/1caLcV161XxbwXlQhiHLfmGtGkWuMc_gZuNazn1tkLN0/edit#slide=id.g4d0897195_00); [скринкаст](https://www.youtube.com/watch?v=cwqBWB1ugrk).
+Часть 1: слайды: [pdf](https://github.com/vpavlenko/mipt-ctf/raw/master/03-crypto/slides.pdf), [online](https://docs.google.com/presentation/d/1caLcV161XxbwXlQhiHLfmGtGkWuMc_gZuNazn1tkLN0/edit#slide=id.g4d0897195_00); [скринкаст](https://www.youtube.com/watch?v=cwqBWB1ugrk).
 
 Часть 2: Not yet.
 
@@ -37,20 +37,20 @@ Wkh_Txlfn_Eurzq_Ira_Mxpsv_Ryhu_Wkh_Odcb_Grj
 
 ### start
 
-После шифрования текста с помощью [программы](https://github.com/xairy/mipt-ctf/blob/master/03-crypto/tasks/start.py) был получен [файл](https://github.com/xairy/mipt-ctf/blob/master/03-crypto/tasks/start.dat). Расшифруйте.
+После шифрования текста с помощью [программы](https://github.com/vpavlenko/mipt-ctf/blob/master/03-crypto/tasks/start.py) был получен [файл](https://github.com/vpavlenko/mipt-ctf/blob/master/03-crypto/tasks/start.dat). Расшифруйте.
 
 Файл нужно скачать, нажав на кнопку Raw.
 Просто скопировать не получится, поскольку часть данных не отображается браузером.
 
 ### analyze
 
-Условие [тут](https://github.com/xairy/mipt-ctf/blob/master/03-crypto/tasks/analyze.txt).
+Условие [тут](https://github.com/vpavlenko/mipt-ctf/blob/master/03-crypto/tasks/analyze.txt).
 
 Флагом является имя\_автора.
 
 ### vigenere\*
 
-После шифрования текста с помощью [программы](https://github.com/xairy/mipt-ctf/blob/master/03-crypto/tasks/vigenere.py) был получен [файл](https://github.com/xairy/mipt-ctf/blob/master/03-crypto/tasks/vigenere.dat). Расшифруйте.
+После шифрования текста с помощью [программы](https://github.com/vpavlenko/mipt-ctf/blob/master/03-crypto/tasks/vigenere.py) был получен [файл](https://github.com/vpavlenko/mipt-ctf/blob/master/03-crypto/tasks/vigenere.dat). Расшифруйте.
 
 Файл нужно скачать, нажав на кнопку Raw.
 Просто скопировать не получится, поскольку часть данных не отображается браузером.
@@ -59,7 +59,7 @@ Wkh_Txlfn_Eurzq_Ira_Mxpsv_Ryhu_Wkh_Odcb_Grj
 
 ### mary\*\*
 
-Условие [тут](https://github.com/xairy/mipt-ctf/blob/master/03-crypto/tasks/mary.txt).
+Условие [тут](https://github.com/vpavlenko/mipt-ctf/blob/master/03-crypto/tasks/mary.txt).
 
 Флагом является произведение года рождения и года смерти автора.
 
@@ -82,7 +82,7 @@ username taskname 73c0487d1b4c9326bc4ec5ac09bf69eb
 
 ## Разбор задач.
 
-[Тут](https://github.com/xairy/mipt-ctf/wiki/Writeup:-crypto).
+[Тут](https://github.com/vpavlenko/mipt-ctf/wiki/Writeup:-crypto).
 
 
 ## Материалы

@@ -20,7 +20,7 @@ https://en.wikibooks.org/wiki/X86_Assembly/Floating_Point
 
 ## Разбор задач
 
-[Тут.](https://github.com/xairy/mipt-ctf/wiki/Writeup:-reverse)
+[Тут.](https://github.com/vpavlenko/mipt-ctf/wiki/Writeup:-reverse)
 
 ## Дополнительные материалы
 

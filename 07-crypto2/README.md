@@ -3,10 +3,10 @@ Crypto
 
 ## Лекция
 
-[Часть 1](https://github.com/xairy/mipt-ctf/tree/master/03-crypto).
+[Часть 1](https://github.com/vpavlenko/mipt-ctf/tree/master/03-crypto).
 
 Часть 2:
-[pdf](https://github.com/xairy/mipt-ctf/raw/master/07-crypto2/slides.pdf),
+[pdf](https://github.com/vpavlenko/mipt-ctf/raw/master/07-crypto2/slides.pdf),
 [онлайн](https://docs.google.com/presentation/d/1_wH9fFyCnPiZYMvVxsbkYfV4_jmHBCRgE8CT3rVTBGw/edit?usp=sharing),
 [скринкаст](https://www.youtube.com/watch?v=g-IfMANVBdg).
 
@@ -45,7 +45,7 @@ Note that the flag is not a number but a number decoded as ASCII text.
 
 ### broken\*\*
 
-[This RSA service](https://github.com/xairy/mipt-ctf/tree/master/07-crypto2/broken_rsa_source.py) seems to be broken.
+[This RSA service](https://github.com/vpavlenko/mipt-ctf/tree/master/07-crypto2/broken_rsa_source.py) seems to be broken.
 They encrypt the flag and send it to you each time... but they throw out the private key and you never get to see it.
 Any ideas on how to recover the flag?
 
