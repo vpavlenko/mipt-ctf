@@ -45,58 +45,58 @@ CTF на Физтехе
 
 **29 октября.**
 [Что такое CTF. Какие бывают задачки. Командная оболочка bash. Полезные команды.]
-(https://github.com/xairy/mipt-ctf/tree/master/01-bash)
+(https://github.com/vpavlenko/mipt-ctf/tree/master/01-bash)
 
 **11 и 18 ноября.**
 [Введение в язык Python. Escaping Python sandboxes.]
-(https://github.com/xairy/mipt-ctf/tree/master/02-python)
+(https://github.com/vpavlenko/mipt-ctf/tree/master/02-python)
 
 **25 ноября.**
 [Криптография, часть 1. Кодировки (ASCII, Unicode, base64). Шифры Цезаря, простой подстановки и Виженера. Частотный анализ. Индекс совпадений.]
-(https://github.com/xairy/mipt-ctf/tree/master/03-crypto)
+(https://github.com/vpavlenko/mipt-ctf/tree/master/03-crypto)
 
 **2 декабря.**
 [Веб, часть 1. nmap, HTTP/HTTPS, cookies, Python requests, curl, robots.txt. ]
-(https://github.com/xairy/mipt-ctf/tree/master/04-web)
+(https://github.com/vpavlenko/mipt-ctf/tree/master/04-web)
 
 ### Весенний семестр
 
 **26 февраля**
 [Веб, часть 2. Инъекции. SQLi, XSS, LFI, RFI.]
-(https://github.com/xairy/mipt-ctf/tree/master/05-web2)
+(https://github.com/vpavlenko/mipt-ctf/tree/master/05-web2)
 
 **5 марта**
 [Веб, часть 3. Command Injection, CSRF, XPATH Injection, MITM, DDOS.]
-(https://github.com/xairy/mipt-ctf/tree/master/06-web3)
+(https://github.com/vpavlenko/mipt-ctf/tree/master/06-web3)
 
 **12 марта**
 [Криптография, часть 2. Асимметричное шифрование, протокол Диффи-Хеллмана, RSA, электронная цифровая подпись, сертификат открытого ключа. Криптографические хеш-функции, Length Extension Attack.]
-(https://github.com/xairy/mipt-ctf/tree/master/07-crypto2)
+(https://github.com/vpavlenko/mipt-ctf/tree/master/07-crypto2)
 
 **19 марта**
 [Реверс, часть 1. Ассемблер. Синтаксисы Intel и AT&T.]
-(https://github.com/xairy/mipt-ctf/tree/master/08-reverse)
+(https://github.com/vpavlenko/mipt-ctf/tree/master/08-reverse)
 
 **26 марта**
 [Реверс, часть 2. Ассемблер. NASM.]
-(https://github.com/xairy/mipt-ctf/tree/master/09-reverse2)
+(https://github.com/vpavlenko/mipt-ctf/tree/master/09-reverse2)
 
 **2 апреля**
 [Реверс, часть 3. Binary patching. ]
-(https://github.com/xairy/mipt-ctf/tree/master/10-reverse3)
+(https://github.com/vpavlenko/mipt-ctf/tree/master/10-reverse3)
 
 **16 апреля**
 [Реверс, часть 4. Инструменты для реверса. gdb, strace. ]
-(https://github.com/xairy/mipt-ctf/tree/master/11-reverse4)
+(https://github.com/vpavlenko/mipt-ctf/tree/master/11-reverse4)
 
 **23 апреля**
 [Реверс, часть 5. Buffer overflow и format string exploit'ы. ]
-(https://github.com/xairy/mipt-ctf/tree/master/12-reverse5)
+(https://github.com/vpavlenko/mipt-ctf/tree/master/12-reverse5)
 
 **7 мая**
 [Реверс, часть 6. Return-Oriented-Programming. Гаджеты, ROPgadget. zio. ]
-(https://github.com/xairy/mipt-ctf/tree/master/13-reverse6)
+(https://github.com/vpavlenko/mipt-ctf/tree/master/13-reverse6)
 
 **21 мая**
 [Advanced. Эксплуатация уязвимостей беспроводных сетей. airmon-ng, airodump-ng, aircrack-ng. wifite. reaver. ]
-(https://github.com/xairy/mipt-ctf/tree/master/14-advanced)
+(https://github.com/vpavlenko/mipt-ctf/tree/master/14-advanced)
